@@ -20,7 +20,6 @@ public class ContaTerminal {
         System.out.print("Agência: ");
         String agencia = scan.next();
 
-
         System.out.print("Saldo da conta: ");
         double saldo = scan.nextDouble();
 
