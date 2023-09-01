@@ -3,6 +3,11 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
+        //TODO: Importar a classe locale e scanner
+        //TODO: Exibir as mensagens
+        //TODO: Obter pela classe scanner as informações solicitadas no terminal
+        //TODO: Exibir as informações digitadas
+
         Locale.setDefault(Locale.US);
         Scanner scan = new Scanner(System.in);
 
